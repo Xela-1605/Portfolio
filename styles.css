@@ -1,0 +1,222 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background: url('background.jpg') no-repeat center center fixed; /* Background image */
+    background-size: cover; /* Ensure image covers the whole background */
+    color: #f4eaff; /* Light purple text for contrast */
+}
+
+/* Header Styles */
+header {
+    background: rgba(58, 3, 94, 0.9); /* Semi-transparent dark purple */
+    color: #f4eaff;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #e3cfff; /* Soft light purple for links */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    color: #ffffff; /* Pure white hover effect */
+}
+
+/* Section Styles */
+section {
+    margin: 20px auto;
+    max-width: 800px;
+    padding: 20px;
+    background: #ffffff; /* White background for boxes */
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+    color: #2d024f; /* Dark purple text for content */
+}
+
+h2 {
+    color: #6a0dad; /* Deep purple headings */
+    margin-top: 0;
+}
+
+/* Project Card Styles */
+.project {
+    margin-bottom: 20px;
+}
+
+.project h3 {
+    color: #6a0dad; /* Deep purple subheadings */
+}
+
+/* Form Styles */
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin-top: 10px;
+    color: #6a0dad; /* Deep purple labels */
+}
+
+input, textarea, button {
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #d1b3ff; /* Light purple border */
+    border-radius: 4px;
+    background-color: #f9f9f9; /* Off-white for inputs */
+    color: #2d024f; /* Dark purple text */
+}
+
+input:focus, textarea:focus {
+    outline: 2px solid #6a0dad; /* Focus with purple outline */
+}
+
+button {
+    background: #6e2c9f; /* Medium purple button */
+    color: #fff;
+    cursor: pointer;
+    border: none;
+}
+
+button:hover {
+    background: #9f4cff; /* Bright purple for hover effect */
+}
+
+/* Footer Styles */
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: rgba(58, 3, 94, 0.9); /* Semi-transparent dark purple footer */
+    color: #f4eaff;
+    margin-top: 20px;
+}
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background: url('background.jpg') no-repeat center center fixed; /* Background image */
+    background-size: cover; /* Ensure image covers the whole background */
+    color: #f4eaff; /* Light purple text for contrast */
+}
+
+/* Header Styles */
+header {
+    background: rgba(58, 3, 94, 0.9); /* Semi-transparent dark purple */
+    color: #f4eaff;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #e3cfff; /* Soft light purple for links */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    color: #ffffff; /* Pure white hover effect */
+}
+
+/* Section Styles */
+section {
+    margin: 20px auto;
+    max-width: 800px;
+    padding: 20px;
+    background: #ffffff; /* White background for boxes */
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+    color: #2d024f; /* Dark purple text for content */
+}
+
+h2 {
+    color: #6a0dad; /* Deep purple headings */
+    margin-top: 0;
+}
+
+/* Project Card Styles */
+.project {
+    margin-bottom: 20px;
+}
+
+.project h3 {
+    color: #6a0dad; /* Deep purple subheadings */
+}
+
+/* Form Styles */
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin-top: 10px;
+    color: #6a0dad; /* Deep purple labels */
+}
+
+input, textarea, button {
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #d1b3ff; /* Light purple border */
+    border-radius: 4px;
+    background-color: #f9f9f9; /* Off-white for inputs */
+    color: #2d024f; /* Dark purple text */
+}
+
+input:focus, textarea:focus {
+    outline: 2px solid #6a0dad; /* Focus with purple outline */
+}
+
+button {
+    background: #6e2c9f; /* Medium purple button */
+    color: #fff;
+    cursor: pointer;
+    border: none;
+}
+
+button:hover {
+    background: #9f4cff; /* Bright purple for hover effect */
+}
+
+/* Footer Styles */
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: rgba(58, 3, 94, 0.9); /* Semi-transparent dark purple footer */
+    color: #f4eaff;
+    margin-top: 20px;
+}
